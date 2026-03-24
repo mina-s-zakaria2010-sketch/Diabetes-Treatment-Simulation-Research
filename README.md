@@ -1,6 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19210899.svg)](https://doi.org/10.5281/zenodo.19210899)
 # 🩺 The Journey of Diabetes Treatment: From Insulin to the Artificial Pancreas
 ### *A Centennial Analysis (1921–2026) & Computational Simulation*
-
 ---
 
 ## 📋 Abstract
