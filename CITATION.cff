@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this research or simulation, please cite it as below."
 authors:
-  - family-names: "Zakaria"
-    given-names: "Mina Sherif"
+  - family-names: "Sherif Zakaria"
+    given-names: "Mina"
 title: "The Evolution of Diabetes Treatment & Artificial Pancreas Simulation"
 version: 1.0.0
-doi: 10.5281/zenodo.19210899
+doi: "10.5281/zenodo.19211730"
 date-released: 2026-03-25
+url: "https://github.com/Mina-Sherif-Zakaria/Diabetes-Treatment-Simulation-Research"
